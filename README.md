@@ -1,29 +1,30 @@
 <h1 align="center">Hi 👋, I'm Swopnil Pandey</h1>
 <h3 align="center">A passionate beginner developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swopnilcodex&label=Profile%20views&color=0e75b6&style=flat" alt="swopnilcodex" /> </p>
+# 💫 About Me:
+<br>🔭 I’m currently working on LearnNp<br><br>🌱 I’m currently learning Intermediate Python,HTML,CSS<br><br>👯 I’m looking to collaborate on LearnNp<br><br>📫 How to reach me swopnilpandey1999@gmail.com<br><br>⚡ Fun fact I can play a guitar
 
-- 🔭 I’m currently working on [LearnNp](https://learnnp.inquirynepal.com/)
+---
+[![](https://visitcount.itsvg.in/api?id=swopnilcodex&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/XefsUsc3Xm) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/swop_forsure) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/swop_forsure) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swopnilpandey) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/RaphaelDSlime) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Raphael9991) 
 
-- 🌱 I’m currently learning **Intermediate Python,HTML,CSS**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=swopnilcodex&theme=date_night&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=swopnilcodex&theme=date_night&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=swopnilcodex&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 👯 I’m looking to collaborate on [LearnNp](https://learnnp.inquirynepal.com/)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=swopnilcodex&theme=neon&no-frame=false&no-bg=true&margin-w=4)
 
-- 📫 How to reach me **swopnilpandey1999@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-- ⚡ Fun fact **I can play a guitar**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=swopnilcodex&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/swopnil pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swopnil pandey" height="30" width="40" /></a>
-<a href="https://fb.com/swopnil pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="swopnil pandey" height="30" width="40" /></a>
-<a href="https://instagram.com/swopnilpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swopnilpandey" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/raphael9991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raphael9991" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swopnilcodex&show_icons=true&locale=en&layout=compact" alt="swopnilcodex" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swopnilcodex&show_icons=true&locale=en" alt="swopnilcodex" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
