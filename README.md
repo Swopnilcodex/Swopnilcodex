@@ -4,8 +4,8 @@
 # 💫 About Me:
 <br>🔭 I’m currently working on LearnNp<br><br>🌱 I’m currently learning Intermediate Python,HTML,CSS<br><br>👯 I’m looking to collaborate on LearnNp<br><br>📫 How to reach me swopnilpandey1999@gmail.com<br><br>⚡ Fun fact I can play a guitar
 --- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swopnilcodex&label=Profile%20views&color=0e75b6&style=flat" alt="swopnilcodex" /> </p>
 
-[![](https://visitcount.itsvg.in/api?id=swopnilcodex&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/XefsUsc3Xm) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/swop_forsure) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/swop_forsure) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swopnilpandey) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/RaphaelDSlime) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Raphael9991) 
