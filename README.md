@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Swopnil Pandey</h1>
-<h3 align="center">A passionate beginner developer from Nepal</h3>
+<h3 align="center">A Cybersecurity Enthusiast</h3>
 
 # 💫 About Me:
-<br>🔭 I’m currently working on LearnNp<br><br>🌱 I’m currently learning Intermediate Python,HTML,CSS<br><br>👯 I’m looking to collaborate on LearnNp<br><br>📫 How to reach me swopnilpandey1999@gmail.com<br><br>⚡ Fun fact I can play a guitar
+<br>🔭 I’m currently studying bachelor of Networking major in Cybersecurity  <br><br>🌱 I’m currently learning Intermediate Python,network architecture, bash scripting,HTML,CSS<br><br>👯 I mainly operate in linux. <br><br>📫 How to reach me swopnil.pandey.contact@gmail.com<br><br>⚡ Fun fact I am working on a homelab.
 --- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swopnilcodex&label=Profile%20views&color=0e75b6&style=flat" alt="swopnilcodex" /> </p>
 
